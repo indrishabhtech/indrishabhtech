@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Rishabh Mishra</h1>
 <p align="center">
-  <i>Backend Enthusiast | Web Developer | Tech Explorer</i>
+  <i>Junior Web Developer | SEO | Finance</i>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 👨‍💻 I’m @indrishabhtech — a backend-focused web developer passionate about building scalable and efficient server-side applications.
+- 👨‍💻 I’m @indrishabhtech - full-stack web developer building scalable and efficient server-side applications for users.
 - 💼 Currently working at **Repoxa Technology** as a Web Developer. Excited to join **Tata Consultancy Services (TCS)** soon!
 - 🌱 Continuously learning and exploring new tech including **GIMP**, **AWS**, and **Redis**.
 - 🤝 Looking to collaborate on exciting **full-stack** projects that challenge and inspire.
@@ -17,7 +17,7 @@
 
 ### 🌐 Connect With Me
 
-- 📫 Reach me via email: **indrishabhtech@gmail.com**
+- 📫 Reach me via email: **therishabhofficial19@gmail.com**
 - 🔗 [YouTube Channel](https://youtube.com/@indrishabh19)
 - 💼 [Portfolio Website](https://teamrishabh.netlify.app)
 - 🖥️ [GitHub Profile](https://github.com/indrishabhtech)
@@ -54,5 +54,5 @@ Have an idea for a cool full-stack project? I’m always open to teaming up on m
 ---
 
 <p align="center">
-  Made with ❤️ by Rishabh Mishra
+  Made with ❤️ by Rishabh Mishra 
 </p>
